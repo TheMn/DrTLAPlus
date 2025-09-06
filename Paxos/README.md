@@ -15,6 +15,7 @@ Andrew Helwer is a software engineer in Microsoft Azure, living in Seattle WA. H
 (not required, but helpful to take a look before the lecture)
 + [Paxos Made Simple](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)
 + [Paxos TLA+ specification](./Paxos.tla)
++ [Persian paper on Paxos and TLA+](./Persian_Doc/README.md)
 
 ### Media
 + [video](https://www.youtube.com/watch?v=zCaJSrTmUFA)
